@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="left">
+  <img src="./images/readme-banner.jpg" alt="Hi, I'm Ivy" />
+</p>
+
 
 <!--
 **Ivy-Calderon/Ivy-Calderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
